@@ -1,0 +1,16 @@
+[project]
+name = "test-robotics-xr"
+version = "0.1.0"
+description = "XR body tracking visualizer: video + skeleton (front/side/top)"
+requires-python = ">=3.9"
+dependencies = [
+    "opencv-python",
+    "numpy",
+]
+
+[dependency-groups]
+dev = ["ruff"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py39"
