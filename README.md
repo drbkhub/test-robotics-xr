@@ -1,8 +1,7 @@
 
 
 # test-robotics-xr
-
-![](output_analysis/comparison_frames/comparison_05_frame004043.png)
+<img width="600" height="600" alt="skeleton" src="https://github.com/user-attachments/assets/00bfa521-fd07-4ab7-af4d-b5fa85296e0b" />
 
 Визуализация XR body tracking: видео + скелет в трёх проекциях (front/side/top).
 
